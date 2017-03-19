@@ -1,8 +1,6 @@
 # Kaggle-Two-Sigma-Connect-Rental-Listing-Inquiries
 
-<center>
 ![Pictures](Pictures/renthop.png)
-</center>
 
 Finding the perfect place to call your new home should be more than browsing through endless listings. RentHop makes apartment search smarter by using data to sort rental listings by quality. But while looking for the perfect apartment is difficult enough, structuring and making sense of all available real estate data programmatically is even harder. Two Sigma and RentHop, a portfolio company of Two Sigma Ventures, invite Kagglers to unleash their creative engines to uncover business value in this unique recruiting competition.
 
