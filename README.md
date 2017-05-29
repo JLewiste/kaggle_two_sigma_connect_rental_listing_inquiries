@@ -1,4 +1,4 @@
-# Kaggle-Two-Sigma-Connect-Rental-Listing-Inquiries
+# Kaggle: Two Sigma Connect rental listing inquiries
 
 ![Pictures](Pictures/renthop.png)
 
